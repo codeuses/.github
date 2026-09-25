@@ -1,4 +1,4 @@
-# CODEUSES CONSULTING
+# codeuses consulting
 
 Conseil technique et développement d'applications, basé à Paris.
 
