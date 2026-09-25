@@ -9,5 +9,5 @@ Conseil technique et développement d'applications, basé à Paris.
 
 ## Contact
 
-📧 serge@codeus.io
-🌐 [codeuses-consulting.fr](https://codeuse.io)
+📧 serge@codeuse.io
+🌐 [codeuse.io](https://codeuse.io)
